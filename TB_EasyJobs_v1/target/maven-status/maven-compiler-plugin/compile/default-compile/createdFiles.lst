@@ -1,0 +1,7 @@
+com\easyjobs\introduccion\controller\TrabajadorController.class
+com\easyjobs\introduccion\entities\Trabajador.class
+com\easyjobs\introduccion\services\TrabajadorService.class
+com\easyjobs\introduccion\interfaceservice\TrabajadorInterface.class
+com\easyjobs\introduccion\RunApplication.class
+com\easyjobs\introduccion\repositories\TrabajadorRepository.class
+com\easyjobs\introduccion\entities\Ocupacion.class
